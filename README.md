@@ -1,6 +1,7 @@
 # SelectionBUG
 
 This repo is meant to demonstrate the bug in AHUD::GetActorsInSelectionRectangle method from Unreal Engine, as of 4.25.3
+
 Steps to reproduce:
 
 1) Launch the Project in the editor
