@@ -11,3 +11,5 @@ Steps to reproduce:
 5) Notice that another TestActor (TestActor OUTSIDE THE SCREEN) is always considered as part of the selection
 
 All the relevant code is inside CustomHUD, plus two delegates on TopDownController and the corresponding input binding
+
+Related Pull Request: https://github.com/EpicGames/UnrealEngine/pull/7350
